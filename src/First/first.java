@@ -6,7 +6,7 @@ public class first {
 		// TODO Auto-generated method stub
 
 		System.out.print("hello world");
-	  System.out.print("\ntomorrow is sunday");
+	  System.out.print("\ntomorrow is sussnday");
 		
 	}
 
