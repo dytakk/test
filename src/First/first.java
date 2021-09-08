@@ -7,6 +7,14 @@ public class first {
 
 		System.out.print("hello world");
 	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  System.out.print("\ntomorrow is sussnday");
+	  
 		
 	}
 
